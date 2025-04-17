@@ -31,3 +31,30 @@ Doing this is simple and can be done in any EDA Software within minutes.
 - The LED is placed in the exact centre of the circle.
 - The Header pins are placed +/- 8.5mm from the Centre.
 - Make sure the GND and VCC contacts are each on the same side as the Base PCB.
+
+
+## Assembly
+
+### Bottom PCB
+
+- Take The Round Assembly Tool and place the PCB into the Marked Section onto the Assembly Tool.
+- Insert the 5mm LED and fix it in place using tape
+- Solder the LED in place
+- Remove the Assembly Tool
+- Use a Plier to cut off the top LED portion   
+- Place the PCB into the Heaxagonal Tool
+- Insert the Female 2.54mm 1x2 headers
+- The Headers should face in the opposite direction from the Leads
+- Place the Assembly upside down onto a flat surface, the headers are now aligned
+- Solder the Headers onto the PCB   
+- Glue the PCB into the Adapter Part   
+
+### Top PCB
+
+- Solder your SMD LED onto the Top PCB
+- Insert the Male 2.54mm 1x2 headers
+- The Headers should face in the opposite direction from the LED
+- Put the PCB with the headers into the Base PCB
+- Solder the Headers
+
+The Adapter is now finished and ready for use
