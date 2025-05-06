@@ -1,4 +1,4 @@
-# LED-501_SMD-Adapter
+# LED-501 SMD Adapter
 Adapter Mount for the LED-501 mount from Instrument Systems  
 
 Fit any SMD LED or other Parts onto this mount
