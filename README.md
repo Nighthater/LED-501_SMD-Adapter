@@ -3,6 +3,9 @@ Adapter Mount for the LED-501 mount from Instrument Systems
 
 Fit any SMD LED or other Parts onto this mount
 
+
+<img src="Adapter_Image.png" width="500">
+
 ## Parts Needed:
 - 3D Printer (To Manufacture the Adapter and Assembly Tools, any 3D Print service does the job)
 - 2x Standard 2.54mm Female 01x02 Pin Headers 
