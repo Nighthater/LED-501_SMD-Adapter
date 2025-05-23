@@ -44,9 +44,9 @@ Doing this is simple and can be done in any EDA Software within minutes.
 - The Headers should face in the opposite direction from the Leads (The LED Leads go upwards, the Headers downwards)
 - Place the Assembly upside down onto a flat surface, the headers are now aligned
 - Solder the Headers onto the PCB
-- Glue the PCB into the Adapter Part   
-- Glue the Front cover (20) onto the Adapter
-- To protect the LED Leads from damage, you can use the Contact Cover (30)
+- Glue the PCB into the Adapter Part (010)   
+- Glue the Front cover (020) onto the Adapter
+- To protect the LED Leads from damage, you can use the Contact Cover (030)
 
 ### Top PCB
 
