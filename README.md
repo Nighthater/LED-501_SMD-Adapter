@@ -13,17 +13,15 @@ Fit any SMD LED or other Parts onto this mount
 - PCBs
 - SMD LEDs
 - 5mm THT LED (Serves as adapter for the LED-501 mount)
-
-## Features
-- Quickly Change between different LEDs (Different PCBs Required)
-- Easy and Cheap to manufacture
-
+- Flat Plier (Knipex 78 61 125 or similar)
+- Superglue
+- Soldering Iron
 
 ## Custom PCBs
 If you want to test other SMD LEDs, you can create your own LED Board.
 Doing this is simple and can be done in any EDA Software within minutes.
 
-### Specifications
+#### Specifications
 - The PCB Outline is a 25mm Circle.
 - The LED is placed in the exact centre of the circle.
 - The Header pins are placed +/- 8.5mm from the Centre.
@@ -31,7 +29,7 @@ Doing this is simple and can be done in any EDA Software within minutes.
 
 ## Assembly
 
-### Bottom PCB
+#### Bottom PCB
 
 - Take The Round Assembly Tool Spacer (100) and place the PCB into the Marked Section onto the Assembly Tool.
 - Use the PCB Holder (110) to fix the PCB in place
