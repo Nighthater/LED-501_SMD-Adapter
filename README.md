@@ -27,6 +27,8 @@ Doing this is simple and can be done in any EDA Software within minutes.
 - The Header pins are placed +/- 8.5mm from the Centre.
 - Make sure the GND and VCC contacts are each on the same side as the Base PCB. (e.g. GND Both Left, VCC Both Right) You can swap polarities by roating the PCB.
 
+<img src="PCB_Spacings.png" width="500">
+
 ## Assembly
 
 #### Bottom PCB
