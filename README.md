@@ -31,6 +31,13 @@ Doing this is simple and can be done in any EDA Software within minutes.
 
 ## Assembly
 
+#### Printing Instructions
+
+All parts, except the Adapter (010) can be printed directly, without supports.
+Be sure to enable rectangular supports for the Adapter for the overhang.
+
+If you cannot get an even surface for the pcb to sit on after removing the supports, try angling the adapter 45°, print at low layerheight and use a raft for adhesion.
+
 #### Bottom PCB
 
 - Take The Round Assembly Tool Spacer (100) and place the PCB into the Marked Section onto the Assembly Tool.
