@@ -33,10 +33,10 @@ Doing this is simple and can be done in any EDA Software within minutes.
 
 #### Printing Instructions
 
-All parts, except the Adapter (010) can be printed directly, without supports.
-Be sure to enable rectangular supports for the Adapter for the overhang.
+All parts, except the Adapter (010) can be printed directly without supports.
+Be sure to enable rectangular supports for the Adapter.
 
-If you cannot get an even surface for the pcb to sit on after removing the supports, try angling the adapter 45°, print at low layerheight and use a raft for adhesion.
+If you cannot get a somewhat even surface for the PCB to sit on after removing the supports, try angling the adapter 45°, print at a low layerheight (< 0.12 mm) and use a raft and supports (Increase the threshold angle!) for adhesion.
 
 #### Bottom PCB
 
@@ -55,7 +55,7 @@ If you cannot get an even surface for the pcb to sit on after removing the suppo
 - Glue the Front cover (020) onto the Adapter
 - To protect the LED Leads from damage, you can use the Contact Cover (030)
 
-### Top PCB
+#### Top PCB
 
 - Solder your SMD LED onto the Top PCB
 - Insert the Male 2.54mm 1x2 headers facing away from the SMD LED
