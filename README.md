@@ -15,7 +15,8 @@ Fit any SMD LED or other Parts onto this mount
 - 5mm THT LED (Serves as adapter for the LED-501 mount)
 - Flat Plier (Knipex 78 61 125 or similar)
 - Superglue
-- Soldering Iron
+- Soldering Iron for Headers
+- Hot Air Station for SMD LEDs
 
 ## Custom PCBs
 If you want to test other SMD LEDs, you can create your own LED Board.
