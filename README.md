@@ -19,7 +19,7 @@ Fit any SMD LED or other Parts onto this mount
 - Hot Air Station for SMD LEDs
 
 ## Custom PCBs
-If you want to test other SMD LEDs, you can create your own LED Board.
+If you want to test other SMD LEDs than the included 2835 footprint, you can create your own LED Board.
 Doing this is simple and can be done in any EDA Software within minutes.
 
 #### Specifications
