@@ -13,7 +13,7 @@ Fit any SMD LED or other Parts onto this mount
 - PCBs
 - SMD LEDs
 - 5mm THT LED (Serves as adapter for the LED-501 mount)
-- Flat Plier (Knipex 78 61 125 or similar)
+- Flat Side cutter (Knipex 78 61 125 or similar)
 - Superglue
 - Soldering Iron for Headers
 - Hot Air Station for SMD LEDs
@@ -46,7 +46,7 @@ If you cannot get a somewhat even surface for the PCB to sit on after removing t
 - Insert the 5mm LED and fix it in place using the LED Holder Guide (120), then place and fix the LED with the holder (130)
 - Solder the LED in place
 - Remove the Assembly Tools
-- Use a Flat Plier (Knipex 78 61 125 or similar) to cut off the top LED portion   
+- Use a flat side cutter (Knipex 78 61 125 or similar) to cut off the top LED portion   
 - Place the PCB into the Heaxagonal Tool (200)
 - Insert the Female 2.54mm 1x2 headers 
 - The Headers should face in the opposite direction from the Leads (The LED Leads go upwards, the Headers downwards)
